@@ -1,6 +1,6 @@
 # Rules
 
-Test. These rules are the basis from which we help keep the osu! community a fun and welcoming place for everyone.
+Test. These rules are the basis from which we help keep the osu! community a fun and welcoming place for everyone. Extra info
 
 ## Community rules
 
