@@ -1,6 +1,6 @@
 # Rules
 
-These rules are the basis from which we help keep the osu! community a fun and welcoming place for everyone.
+This is test branch A. These rules are the basis from which we help keep the osu! community a fun and welcoming place for everyone.
 
 ## Community rules
 
