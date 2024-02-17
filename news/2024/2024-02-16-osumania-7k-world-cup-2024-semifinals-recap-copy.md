@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 7K World Cup 2024: Semifinals Recap"
+title: "osu!mania 7K World Cup 2024: Semifinals Recap Copy"
 date: 2024-02-16 21:00:00 +0000
 ---
 
