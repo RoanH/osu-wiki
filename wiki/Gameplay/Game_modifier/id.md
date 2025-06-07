@@ -1,14 +1,16 @@
 ---
 tags:
- - mod
- - game modifier
- - overview
- - list of mods
- - daftar mod
- - NoMod
- - No Mod
- - FreeMod
- - Free Mod
+  - mod
+  - game modifier
+  - overview
+  - list of mods
+  - daftar mod
+  - NoMod
+  - No Mod
+  - FreeMod
+  - Free Mod
+outdated_translation: true
+outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Game modifier
@@ -21,7 +23,7 @@ tags:
 
 Para pemain dapat mengakses `Layar Pemilihan Mod` pada layar pemilihan lagu dengan mengklik tombol `Mods` yang terletak pada pojok kiri bawah atau dengan menekan `F1`. Suatu mod dapat diaktifkan secara cepat dengan menekan tombol *shortcut* yang sesuai dengan yang ada pada `Layar Pemilihan Mod`, di mana tombol *shortcut* ini dapat diatur pada menu Options apabila dikehendaki.
 
-Mod-mod yang ada di dalam permainan osu! dibagi menjadi tiga kategori: `Pengurang Kesulitan`, `Peningkat Kesulitan`, dan `Spesial` yang dapat mengurangi, menambah, atau bahkan menonaktifkan [`Pengali Skor`](/wiki/Gameplay/Game_modifier/Score_multiplier) sepenuhnya. Pada saat dua atau lebih mod diaktifkan secara bersamaan, efek-efek pengali skor yang aktif juga akan ikut dikalikan bersama (misalnya, `1.06x * 1.12x = 1.1872x`).
+Mod-mod yang ada di dalam permainan osu! dibagi menjadi tiga kategori: `Pengurang Kesulitan`, `Peningkat Kesulitan`, dan `Spesial` yang dapat mengurangi, menambah, atau bahkan menonaktifkan [`Pengali Skor`](/wiki/Gameplay/Game_modifier/Mod_multiplier) sepenuhnya. Pada saat dua atau lebih mod diaktifkan secara bersamaan, efek-efek pengali skor yang aktif juga akan ikut dikalikan bersama (misalnya, `1.06x * 1.12x = 1.1872x`).
 
 ## Daftar mod
 
@@ -70,13 +72,13 @@ Tidak semua mod dapat digunakan pada seluruh mode permainan yang ada. Ikon-ikon 
 
 ### Istilah-istilah yang terkait dengan mod
 
-#### NoMod
+#### No Mod
 
-Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **NoMod** (***NM***) mengacu pada beatmap-beatmap yang harus dimainkan tanpa menggunakan mod apapun di samping mod-mod seperti [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) dan [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) yang pada umumnya merupakan syarat wajib turnamen.
+Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **No Mod** (***NM***) mengacu pada beatmap-beatmap yang harus dimainkan tanpa menggunakan mod apapun di samping mod-mod seperti [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) dan [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) yang pada umumnya merupakan syarat wajib turnamen.
 
-#### FreeMod
+#### Free Mod
 
-Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **FreeMod** (***FM***) mengacu pada beatmap-beatmap yang dapat dimainkan baik dengan ataupun tanpa mod. Turnamen-turnamen tertentu terkadang memiliki aturan khusus yang mempersyaratkan mod-mod apa saja serta komposisi penggunaan mod seperti apa yang diperbolehkan pada beatmap-beatmap FreeMod.
+Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **Free Mod** (***FM***) mengacu pada beatmap-beatmap yang dapat dimainkan baik dengan ataupun tanpa mod. Turnamen-turnamen tertentu terkadang memiliki aturan khusus yang mempersyaratkan mod-mod apa saja serta komposisi penggunaan mod seperti apa yang diperbolehkan pada beatmap-beatmap Free Mod.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

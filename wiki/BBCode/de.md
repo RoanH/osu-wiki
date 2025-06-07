@@ -1,6 +1,6 @@
 # BBCode
 
-**BBCode** ist eine [Auszeichnungssprache](https://de.wikipedia.org/wiki/Auszeichnungssprache) (Markup), die im osu!-Forum und, in einem größeren Umfang, in den meisten Foren im Internet genutzt wird. Damit die Rich-Text-Formatierung möglich wird, umranden Tags Text, um die Formatierung, Attribute, Einbettung usw. festzulegen. Es wird auf verschiedenen Seiten auf der osu!-Webseite verwendet, wie z. B. Forumsbeiträge, Signaturen, Benutzerseiten und Beatmapbeschreibungen.
+**BBCode** ist eine [Auszeichnungssprache](https://de.wikipedia.org/wiki/Auszeichnungssprache) (Markup), die im osu!-Forum und, in einem größeren Umfang, in den meisten Foren im Internet genutzt wird. Damit die Rich-Text-Formatierung möglich wird, umranden Tags Text, um die Formatierung, Attribute, Einbettung usw. festzulegen. Es wird auf verschiedenen Seiten auf der osu!-Webseite verwendet, wie z. B. in Forumsbeiträgen, Signaturen, Benutzerseiten und Beatmapbeschreibungen.
 
 ![Der Forum-Beitragseditor mit seinen Buttons](img/editor-DE.jpg?1 "Die Box zum Editieren in den Foren")
 
@@ -66,12 +66,12 @@ Schaltfläche in der Symbolleiste: ![Button zum Durchstreichen](img/strike.png "
 ### Farbe
 
 ```
-[color=HEXCODE]Text[/color]
+[color=#HEXCODE]Text[/color]
 ```
 
 *Für eine Liste aller Farbkodierungen, siehe [X11 Farbkodierung](https://de.abcdef.wiki/wiki/X11_color_names)*
 
-Das Tag `[color]` wird benutzt, um Text mit unterschiedlichen Webfarben zu gestalten. Es wird das [Hexadezimalsystem](https://de.wikipedia.org/wiki/Webfarbe#RGB-Farbraum) verwendet, um die Farbe zu spezifizieren. Die Farbe kann aber auch durch HTML-Farbnamen, wie z. B. "red" oder "green" notiert werden. Um dem Text eine Farbe zu geben, ersetze das Argument `HEXCODE` mit einem Hexadezimal- oder HTML-Farbcode.
+Das Tag `[color]` wird benutzt, um Text mit unterschiedlichen Webfarben zu gestalten. Es wird das [Hexadezimalsystem](https://de.wikipedia.org/wiki/Webfarbe#RGB-Farbraum) verwendet, um die Farbe zu spezifizieren. Die Farbe kann aber auch durch HTML-Farbnamen, wie z. B. "red" oder "green" notiert werden. Um dem Text eine Farbe zu geben, ersetze das Argument `#HEXCODE` mit einem Hexadezimal- oder HTML-Farbcode.
 
 Das zuvor genannte Argument darf keine Anführungszeichen (`"`) enthalten und hat keinen Standardwert. Wenn kein Wert festgelegt wurde oder wenn Anführungszeichen benutzt werden, dann wird das Tag nicht als BBCode-Tag verarbeitet.
 
@@ -213,11 +213,11 @@ Wenn nur die Benutzer-ID verwendet wird, dann ist ein Platzhaltertext zwischen d
 [/list]
 ```
 
-Das Tag `[list]` wird benutzt, um automatisch zwei unterschiedliche Arten von Listen in den osu!-Foren zu formatieren. Dabei wird ein Stern in eckigen Klammern (`[*]`) verwendet, um ein neuen Punkt in der Liste zu markieren (oben gezeigt). Das wird standardmäßig eine einfache Aufzählungsliste generieren.
+Das Tag `[list]` wird benutzt, um automatisch zwei unterschiedliche Arten von Listen in den osu!-Foren zu formatieren. Dabei wird ein Stern in eckigen Klammern (`[*]`) verwendet, um einen neuen Punkt in der Liste zu markieren (oben gezeigt). Das wird standardmäßig eine einfache Aufzählungsliste generieren.
 
 Wenn das Argument `TYP` spezifiziert wird (der tatsächliche Wert spielt keine Rolle), wird eine nummerierte Liste erstellt.
 
-*Hinweis: BBCode-formatierte Listen können aufeinander gestapelt und ineinander verschachtelt werden. Jedoch ist bekannt, dass das manchmal zu Fehlern bei der Formatierung führt.*
+*Hinweis: BBCode-formatierte Listen können aufeinander gestapelt und ineinander verschachtelt werden. Manchmal kann das jedoch zu Fehlern in der Formatierung führen.*
 
 Schaltfläche in der Symbolleiste: ![Button für Listen](img/list.png "Liste") ![Button für nummerierte Listen](img/list-numbered.png "Nummerierte Liste")
 
@@ -243,7 +243,9 @@ Das Tag `[img]` wird benutzt, um Bilder aus dem Internet in osu!-Forumsbeiträge
 
 Um an die Bildadresse zu gelangen, muss man auf die Webseite gehen, auf der das Bild ist. Dann muss man mit der Maus über das Bild fahren, einen Rechtsklick auf das Bild machen und `Grafikadresse kopieren` wählen. Anschließend sollte die Adresse zwischen den Tags eingefügt werden.
 
-Obwohl Bilder von überall aus verlinkt werden können, empfiehlt osu!, dass Nutzer Bilder auf seriösen Filehosting-Diensten wie [Imgur](https://imgur.com) hochladen, da manche Webseiten die direkte Verlinkung zu Bildern nicht erlauben (auch bekannt als "Hotlinks").
+Obwohl Bilder von überall aus verlinkt werden können, empfiehlt osu!, dass Nutzer Bilder auf seriösen Filehosting-Diensten wie [ImgBB](https://imgbb.com/) hochladen, da manche Webseiten die direkte Verlinkung zu Bildern nicht erlauben (auch bekannt als "Hotlinks").
+
+*Hinweis: Imgur blockiert IP-Adressen der osu!-Webseite. Das bedeutet, dass dort neu hochgeladene Bilder nicht mehr länger angezeigt werden können.*[^imgur-blocked-ip]
 
 Schaltfläche in der Symbolleiste: ![Button für Bilder](img/image.png "Bild")
 
@@ -294,7 +296,7 @@ Um Audiodateien mit Hilfe dieser Methode einzubinden, müssen Nutzer die URL (z.
 [heading]Text[/heading]
 ```
 
-Das Tag `[heading]` wird benutzt, um Text als große, pinke Überschriften zu formatieren. Hierbei werden keine mehrstufigen Überschriften unterstützt und die Überschriften können nicht direkt verlinkt werden.
+Das Tag `[heading]` wird benutzt, um Text als große, pinke Überschrift zu formatieren. Hierbei werden keine mehrstufigen Überschriften unterstützt und die Überschriften können nicht direkt verlinkt werden.
 
 Schaltfläche in der Symbolleiste: ![Button für Überschriften](img/heading.png "Überschriften")
 
@@ -344,3 +346,7 @@ Das Tag *Überschrift (v2)* ist ein nicht mehr aktuelles Tag, das früher in den
 - Es gab einen Bug, der Nutzern erlaubte, den Text transparent zu machen durch die Benutzung des [Farb-Tags](#farbe) und die Beschriftung "transparent" nach dem Gleichheitszeichen (`=`).
   - Der Text wird heute zu der Standardfarbe (weiß) zurückgesetzt, sobald das passiert.
 - Bevor das Tag `imagemap` hinzugefügt wurde, war es möglich, einen Hyperlink zu einem Bild hinzuzufügen, indem die Tags `url` und `img` kombiniert wurden. Jedoch kann nur ein Hyperlink pro Bild gesetzt werden. Dazu muss man das Originalbild in mehrere Teile zerschneiden (also für jeden Link ein Teilbild) und diese horizontal nebeneinander anordnen.
+
+## Referenzen
+
+[^imgur-blocked-ip]: [Tweet von @ppy (29.06.2023)](https://twitter.com/ppy/status/1674439849749913602)

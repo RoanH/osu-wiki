@@ -12,11 +12,12 @@ tags:
 
 # Updatequelle lazer
 
-*Für eine vollständige Liste an neuen Funktionen und anderen Unterschieden im Vergleich zu osu!(stable), siehe: [Funktionsvergleich von osu!(lazer)](/wiki/Client/Release_stream/Lazer/Feature_comparison).*
+*Für eine Liste an neuen Funktionen und allgemeinen Fragen zum neuen Client selbst, siehe: [Hilfecenter/Umstellung auf lazer](/wiki/Help_centre/Upgrading_to_lazer).*\
+*Für eine Liste der Änderungen an den Spielmechaniken, siehe: [Unterschiede im Gameplay in osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
 
 ::: Infobox
 
-![](img/lazer.png "Das Client-Logo von osu!(lazer), eine stylisierte Version des osu!-Cookies")
+![](img/lazer.png?2024-10-04 "Das Client-Logo von osu!(lazer).")
 
 [Herunterladen](https://osu.ppy.sh/home/download) • [Issue-Tracker](https://github.com/ppy/osu/issues) • [Diskussionen](https://github.com/ppy/osu/discussions)
 
@@ -26,8 +27,6 @@ tags:
 | Quelloffen | Ja |
 
 :::
-
-*Für allgemeine Fragen zur Umstellung auf lazer und dem neuen Client selbst, siehe: [Hilfecenter/Umstellung auf lazer](/wiki/Help_centre/Upgrading_to_lazer)*
 
 "lazer" ist der Spitzname der nächsten Hauptversion von osu!. Während andere Updatequellen nicht mehr weiterentwickelt werden, wird lazer weiterhin Aktualisierungen erhalten und irgendwann zum neuen "Stable-Client" werden. Die anderen Versionen werden dann entsprechend umbenannt.
 

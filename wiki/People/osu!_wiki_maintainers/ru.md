@@ -1,10 +1,15 @@
+---
+outdated_since: 0ffdd3209f4cbab2e8b050f5eb1201ddd9f4c660
+outdated_translation: true
+---
+
 # Администраторы osu! wiki
 
 **Администраторы** — группа людей, работающих над проектом osu! wiki, содержимое которого живёт в [репозитории на GitHub](https://github.com/ppy/osu-wiki).
 
 Администраторы следят за [трекером задач](https://github.com/ppy/osu-wiki/issues) osu! wiki, а также проверяют правки (пулл-реквесты) от всех желающих. В отличие от остальных пользователей, администраторы могут редактировать чужие пулл-реквесты и применять их к ветке `master`, чтобы изменения были всем видны.
 
-Если у вас есть вопросы по редактированию вики, или вам нужно ревью, обращайтесь в канал `#osu-wiki` [дискорд-сервера osu!](/wiki/Community/osu!_Discord_server), и вам ответит кто-нибудь из участников (все администраторы знают английский).
+Если у вас есть вопросы по редактированию вики, или вам нужно ревью, обращайтесь в канал `#osu-wiki` [дискорд-сервера osu!](/wiki/Community/Discord_servers#official), и вам ответит кто-нибудь из участников (все администраторы знают английский).
 
 ## Администраторы вики
 
@@ -13,10 +18,11 @@
 | Профиль osu! | Профиль GitHub | Статус | Дополнительные языки |
 | :-- | :-- | :-- | :-- |
 | ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | Неактивен |  |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Активен** |  |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | Неактивен |  |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Hiviexd](https://github.com/Hiviexd) | **Активен** | Арабский |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Неактивен |  |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Неактивен | Испанский |
-| ::{ flag=DE }:: [Loctav](https://github.com/Loctav) | [Loctav](https://github.com/Loctav) | Неактивен | Немецкий |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [Loctav](https://github.com/Loctav) | Неактивен | Немецкий |
 | ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | Неактивен |  |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | Неактивен | Немецкий |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **Активен** | Японский |
@@ -35,8 +41,10 @@
 | Профиль osu! | Профиль GitHub |
 | :-- | :-- |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Hiviexd](https://github.com/Hiviexd) |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) |
 
 ## Ушедшие на покой
 

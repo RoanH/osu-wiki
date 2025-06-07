@@ -5,7 +5,7 @@ tags:
   - skins
 ---
 
-# Skinning Contest #3
+# Skinning Contest #3: Chromatic Alteration
 
 ![Skinning Contest #3 banner](img/banner.jpg)
 
@@ -27,6 +27,8 @@ The **Skinning Contest #3: Chromatic Alteration** is a free-for-all osu! skinnin
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, unique profile badge |
+
+![](/wiki/shared/news/2022-10-20-skinning-contest-chromatic-alteration-results/soumetsu.png "Skinning Contest #3 winner badge") ![](/wiki/shared/news/2022-10-20-skinning-contest-chromatic-alteration-results/ralsei.png "Skinning Contest #3 2nd place badge") ![](/wiki/shared/news/2022-10-20-skinning-contest-chromatic-alteration-results/grapes.png "Skinning Contest #3 3rd place badge")
 
 ## Organisation
 
@@ -98,7 +100,7 @@ The Skinning Contest #3 is run by various community members.
   - textures
   - artworks (e.g. stock images or anime artwork)
   - sounds
-- The majority of the in-game menu interface and at least two game modes have to be skinned. In other words, in addition to the gameplay elements, the following segments shouldn't be left default:
+- The majority of the in-game menu interface and at least two game modes have to be skinned. In other words, in addition to the gameplay elements, the following segments should not be left default:
   - Ranking Panel
   - Song Selection
   - Mode Selection
@@ -114,7 +116,7 @@ The Skinning Contest #3 is run by various community members.
 - The file size for your .osk submission must be below 100 MB.
 - Please submit a 16:9 image representing your skin, since this will be used as a cover on the contest page. This image must be at least 1280x720.
 
-## Challenge: Chromatic Alteration {#challenge}
+## Challenge: Chromatic Alteration {id=challenge}
 
 **The colour palettes of all skin submissions must be limited to the visible spectrum of the following types of colour vision deficiencies**:
 

@@ -6,6 +6,8 @@ tags:
   - SO
   - mod
   - game modifier
+outdated_translation: true
+outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Spun Out (mod)
@@ -20,7 +22,7 @@ tags:
 - Tipe: Special
 - Pengali Skor: 0.90x
 - Tombol shortcut default: `C`
-- Caption: `Putaran (spinner) akan diselesaikan secara otomatis.` 
+- Caption: `Putaran (spinner) akan diselesaikan secara otomatis.`
 - Mode permainan yang cocok: ![][osu!]
 
 ## Deskripsi

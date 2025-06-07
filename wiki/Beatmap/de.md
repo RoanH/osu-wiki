@@ -6,7 +6,7 @@ tags:
 
 # Beatmap
 
-Eine **Beatmap** (manchmal *Beatmapset* genannt) ist eine Reihe von Spielleveln ([Schwierigkeitsgrade](#schwierigkeitsgrad)), die verschiedene [Hit-Objekte](/wiki/Gameplay/Hit_object) beinhaltet und fast immer einen einzigen Song repräsentiert. Sie enthält ebenfalls andere Komponenten, die alle zusammen in ein Archiv mit [der Erweiterung `.osz`](/wiki/Client/File_formats/Osz_(file_format)) gepackt werden:
+Eine **Beatmap** (manchmal *Beatmapset* genannt) ist eine Reihe von Spielleveln ([Schwierigkeitsgrade](#schwierigkeitsgrad)), die verschiedene [Hit-Objekte](/wiki/Gameplay/Hit_object) beinhaltet und fast immer einen einzigen Song repräsentiert. Sie enthält ebenfalls andere Komponenten, die alle zusammen in ein Archiv mit [der Erweiterung `.osz`](/wiki/Client/File_formats/osz_(file_format)) gepackt werden:
 
 - der Song selbst, gespeichert in den Formaten MP3 oder Ogg.
 - [Hintergrundbilder](/wiki/Beatmap/Background) oder ein Video, das als Spielfeld agiert.
@@ -20,11 +20,11 @@ Eine **Beatmap** (manchmal *Beatmapset* genannt) ist eine Reihe von Spielleveln 
 
 *Hauptartikel: [Schwierigkeitsgrad](/wiki/Beatmap/Difficulty)*
 
-Ein *Schwierigkeitsgrad* ist eine Datei mit [der Dateierweiterung `.osu`](/wiki/Client/File_formats/Osu_(file_format)), der die Platzierung von Hit-Objekten, Hitsounds und speziellen Effekten wie [Kiai-Zeit](/wiki/Gameplay/Kiai_time) beschreibt. Er beinhaltet auch [Schwierigkeitseinstellungen](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) und andere Parameter, die den Spielverlauf direkt beeinflussen. Schwierigkeitsstufen einer Beatmap haben unterschiedliche Strukturen und können manchmal nur in einem [Spielmodus](/wiki/Game_mode) gespielt werden. Das System zur [Sternebewertung](/wiki/Beatmap/Star_rating) wird verwendet, um die benötigten Fähigkeiten für eine Schwierigkeitsstufe zu visualisieren.
+Ein *Schwierigkeitsgrad* ist eine Datei mit [der Dateierweiterung `.osu`](/wiki/Client/File_formats/osu_(file_format)), der die Platzierung von Hit-Objekten, Hitsounds und speziellen Effekten wie [Kiai-Zeit](/wiki/Gameplay/Kiai_time) beschreibt. Er beinhaltet auch [Schwierigkeitseinstellungen](/wiki/Client/Beatmap_editor/Song_setup#difficulty) und andere Parameter, die den Spielverlauf direkt beeinflussen. Schwierigkeitsstufen einer Beatmap haben unterschiedliche Strukturen und können manchmal nur in einem [Spielmodus](/wiki/Game_mode) gespielt werden. Das System zur [Sternebewertung](/wiki/Beatmap/Star_rating) wird verwendet, um die benötigten Fähigkeiten für eine Schwierigkeitsstufe zu visualisieren.
 
 ## Einreichen
 
-*Hauptartikel: [Einreichen](/wiki/Beatmapping/Beatmap_submission)*
+*Hauptartikel: [Beatmaps veröffentlichen](/wiki/Beatmapping/Beatmap_submission)*
 
 Beatmap-Autoren können ihre Kreationen auf die öffentliche [Beatmap-Auflistung](https://osu.ppy.sh/beatmapsets) [hochladen](/wiki/Beatmapping/Beatmap_submission). Auch wenn jede Schöpfung [einer einzelnen Person](/wiki/Beatmap/Beatmap_host) zugeschrieben wird, handelt es sich doch oft um eine gemeinschaftliche Arbeit: einige Schwierigkeitsgrade können von anderen Leuten innerhalb einer [Kollaboration](/wiki/Beatmap/Beatmap_collaborations) oder [separat](/wiki/Beatmap/Guest_difficulty) erstellt werden.
 
@@ -44,14 +44,14 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{Spielmodus}/{BeatmapID}
 
 Eine eingereichte Beatmap gehört zu einer der folgenden Kategorien, die sich über die Zeit ändern können:
 
-- [Friedhof](Category#friedhof)
-- [Work in Progress / Ausstehend](Category#work-in-progress-und-ausstehend)
-- [Qualifiziert](Category#qualifiziert)
+- [Friedhof](Category#graveyard)
+- [Work in Progress / Ausstehend](Category#wip-and-pending)
+- [Qualifiziert](Category#qualified)
 - [Ranked](Category#ranked)
 - [Approved](Category#approved)
 - [Loved](Category#loved)
 
-Einige Kategorien haben [Einreichungskriterien](/wiki/Ranking_Criteria) und erlauben den Beatmaps, vorübergehende oder dauerhafte [Ranglisten](#ranglisten) zu haben. Die beliebteste Methode, dies zu erreichen, ist das [Beatmap-Ranking-Verfahren](/wiki/Beatmap_ranking_procedure), während die zweite Option ist, die Beatmap in die Kategorie [loved](Category#loved) zu verschieben.
+Einige Kategorien haben [Einreichungskriterien](/wiki/Ranking_criteria) und erlauben den Beatmaps, vorübergehende oder dauerhafte [Ranglisten](#ranglisten) zu haben. Die beliebteste Methode, dies zu erreichen, ist das [Beatmap-Ranking-Verfahren](/wiki/Beatmap_ranking_procedure), während die zweite Option ist, die Beatmap in die Kategorie [loved](Category#loved) zu verschieben.
 
 ## Beatmaps herunterladen
 
@@ -89,7 +89,7 @@ osu!-Spieler benutzen in allen Spielmodi Beatmaps, um [global im Rang aufzusteig
 - Länder-spezifische Ranglisten mit Spielern, die dieselben Flaggen tragen
 - Freundesranglisten, die die Position eines Spielers auf einer Beatmap verglichen mit seinen Freunden zeigen
 
-Für die 500 besten Scores auf jedem Schwierigkeitsgrad einer Beatmap werden [Replays](/wiki/Gameplay/Replay) angeboten, die entweder online angeschaut oder zur weiteren Anzeige in einer lokalen Rangliste gespeichert werden können.
+Für die 1000 besten Scores auf jedem Schwierigkeitsgrad einer Beatmap werden [Replays](/wiki/Gameplay/Replay) angeboten, die entweder online angeschaut oder zur weiteren Anzeige in einer lokalen Rangliste gespeichert werden können.
 
 ### Charts und Spotlights
 

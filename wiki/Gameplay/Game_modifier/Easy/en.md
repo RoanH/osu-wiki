@@ -11,7 +11,8 @@ tags:
 
 ![EZ mod icon](/wiki/shared/mods/EZ.png "Easy (EZ) mod icon")
 
-*For other uses, see [Easy (disambiguation)](/wiki/Disambiguation/Easy).*\
+*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Easy (lazer mod)](/wiki/Gameplay/Game_modifier/Easy_(lazer))*\
+*For other uses, see: [Easy (disambiguation)](/wiki/Disambiguation/Easy)*\
 *For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
 ## About
@@ -37,7 +38,7 @@ This refill event will be signalled to the player with the ready sound (`readyso
 
 ### osu!
 
-In [osu!](/wiki/Game_mode/osu!), the Easy mod decreases [circle size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size), [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Client/Beatmap_editor/Song_Setup#overall-difficulty), and [HP drain](/wiki/Client/Beatmap_editor/Song_Setup#hp-drain-rate) (HP) by half.
+In [osu!](/wiki/Game_mode/osu!), the Easy mod decreases [circle size (CS)](/wiki/Beatmap/Circle_size), [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty), and [HP drain (HP)](/wiki/Beatmap/HP_drain_rate) by half.
 
 ![EZ gameplay osu!](img/EZ-comparison-osu.jpg "Comparison between a regular play (left) vs a play with the Easy mod enabled (right) in osu!")
 

@@ -6,6 +6,8 @@ tags:
   - mod
   - game modifier
   - modificateur de jeu
+outdated_translation: true
+outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Le mod Flashlight
@@ -15,7 +17,7 @@ tags:
 *Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*.\
 *À ne pas confondre avec le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden).*
 
-## À propos 
+## À propos
 
 - Abréviation : FL
 - Type : Augmentation de la difficulté

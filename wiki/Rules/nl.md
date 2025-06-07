@@ -41,7 +41,7 @@ Deze regels zijn de basis waarmee we ervoor zorgen dat de osu! community een leu
 
 ## Beatmap inzend regels
 
-*Opmerking: Deze regels zijn van toepassing op **alle ingezonden maps**, niet alleen ranked maps. Voor meer gedetailleerde regels bij het maken van een beatmap, bekijk de [Rang Criteria](/wiki/Ranking_Criteria).*
+*Opmerking: Deze regels zijn van toepassing op **alle ingezonden maps**, niet alleen ranked maps. Voor meer gedetailleerde regels bij het maken van een beatmap, bekijk de [Rang Criteria](/wiki/Ranking_criteria).*
 
 Deze regels zijn strikt van toepassing op beatmaps ingezonden via het in-game [Beatmap Inzend Systeem](/wiki/Beatmapping/Beatmap_submission). Deze threads/discussies worden gemaakt via het osu! programma wanneer een beatmap wordt ingezonden via de [editor](/wiki/Client/Beatmap_editor).
 
@@ -63,7 +63,7 @@ Deze slechte dingen zijn onder andere (*maar niet gelimiteerd tot*):
 
 Zwijgen opleggen en andere overtredingen nemen **automatisch** bijna exponentieel toe. Moderators hebben geen controle over de lengte waarmee je het zwijgen bent opgelegd voor een overtreding - herhaaldelijk overtreders zullen uitgesloten worden van het spel voor toenemend langere periodes.
 
-Sommige overtredingen hebben een minimum tijd (meestal 48 uur of meer) als ze erg genoeg zijn, hoewel ze bijna exclusief worden gebruikt voor ernstige overtredingen, zoals het delen van grafische inhoud of het verstokt beledigen van andere gebruikers.
+Sommige overtredingen hebben een minimum tijd (meestal 43 uur of meer) als ze erg genoeg zijn, hoewel ze bijna exclusief worden gebruikt voor ernstige overtredingen, zoals het delen van grafische inhoud of het verstokt beledigen van andere gebruikers.
 
 Als, na herhaaldelijke overtredingen, je nog steeds de regels verbreekt, kan je account permanent en onherroepelijk gelimiteerd worden.
 
