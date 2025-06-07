@@ -4,13 +4,14 @@ tags:
   - hit window
   - OD
   - spinner difficulty
+
 outdated_translation: true
 outdated_since: 59fa09aa5fb8f605a3f45c021080958f3bc5d44a
 ---
 
 # Overall difficulty
 
-*Untuk nilai OD yang direkomendasikan, lihat: [Ranking criteria](/wiki/Ranking_Criteria)*
+*Untuk nilai OD yang direkomendasikan, lihat: [Ranking criteria](/wiki/Ranking_criteria)*
 
 **Overall difficulty** (***OD***) menjelaskan seberapa sulit untuk mendapatkan [akurasi](/wiki/Gameplay/Accuracy) yang tinggi di dalam sebuah [beatmap](/wiki/Beatmap). Nilainya berkisar dari 0 sampai 10, di mana semakin tinggi nilai OD, semakin diperlukan akurasi dan presisi yang bagus. Karena akurasi itu yang paling penting untuk meningkatkan [health](/wiki/Gameplay/Health), overall difficulty juga memengaruhi seberapa sulit untuk menyelesaikan sebuah beatmap.
 
@@ -48,7 +49,7 @@ Nilai hit window untuk berbagai waktu penilaian yang ada dapat dilihat dengan me
 | 300 | `64 - 3 * OD` |
 | 200 | `97 - 3 * OD` |
 | 100 | `127 - 3 * OD` |
-| 50 | `188 - 3 * OD` |
+| 50 | `151 - 3 * OD` |
 
 Jika pemain menekan hit object di luar dari hit window 50, pemain akan mendapatkan miss. Apabila terdapat dua objek yang hit window-nya saling bertumpuk, objek kedua tidak akan dapat ditekan hingga objek pertama hilang akibat mekanika [notelock](/wiki/Gameplay/Judgement/Notelock).
 

@@ -4,22 +4,24 @@
 
 ## Активные команды
 
-- [Служба поддержки](Account_support_team)
-- [Номинаторы карт](Beatmap_Nominators)
-- [Кураторы Beatmap Spotlight](Beatmap_Spotlight_Curators)
-- [Выдающиеся участники сообщества](Community_Contributors)
-- [Разработчики](Developers)
 - [Featured Artists](Featured_Artists)
-- [Команда глобальных модераторов](Global_Moderation_Team)
-- [Команда оценки номинаций](Nomination_Assessment_Team)
-- [Комитет по очкам производительности](Performance_Points_Committee)
-- [Команда Project Loved](Project_Loved_Team)
-- [Команда технической поддержки](Support_Team)
-- [Комитет по турнирам](Tournament_Committee)
 - [osu! Alumni](osu!_Alumni)
-- [Команда osu!](osu!_team)
 - [Администраторы osu! wiki](osu!_wiki_maintainers)
-- [Команда osu!monthly](osu!monthly_team)
+- [Выдающиеся участники сообщества](Community_Contributors)
+- [Команда osu!](osu!_team)
+- [Команда Project Loved](Project_Loved_Team)
+- [Команда глобальной модерации](Global_Moderation_Team)
+- [Команда оценки номинаций](Nomination_Assessment_Team)
+- [Команда технической поддержки](Technical_Support_Team)
+- [Комитет по очкам производительности](Performance_Points_Committee)
+- [Комплишионисты](Completionists)
+- [Кураторы Beatmap Spotlight](Beatmap_Spotlight_Curators)
+- [Номинаторы](Beatmap_Nominators)
+- [Разработчики](Developers)
+- [Служба поддержки](Account_support_team)
+- [Турнирный комитет](Tournament_Committee)
+- [Центурионы](Centurions)
+- [Элитные номинаторы](Elite_Nominators)
 
 ## Неактивные команды
 
@@ -31,6 +33,6 @@
 ## Разное
 
 - [peppy](peppy)
+- [Группы пользователей](User_groups)
 - [История команд osu!](Staff_log)
-- [Группы пользователей](User_group)
 - [Пользователи с уникальными титулами](Users_with_unique_titles)

@@ -41,7 +41,7 @@ Estas regras tem o propósito de manter a comunidade do osu! divertida e agradá
 
 ## Regras de Envio de Beatmap
 
-*Nota: Essas regras se aplicam a **todos os mapas enviados**, não só para os Ranqueados. Para mais regras específicas a respeito de beatmaps Ranqueados, veja a [Ranking Criteria](/wiki/Ranking_Criteria).*
+*Nota: Essas regras se aplicam a **todos os mapas enviados**, não só para os Ranqueados. Para mais regras específicas a respeito de beatmaps Ranqueados, veja a [Ranking Criteria](/wiki/Ranking_criteria).*
 
 Estas regras se aplicam aos beatmaps enviados pelo [Sistema de Envio de Beatmaps](/wiki/Beatmapping/Beatmap_submission). Estes tópicos/discussões são criadas através do cliente do osu! quando um beatmap é enviado através do [editor](/wiki/Client/Beatmap_editor).
 
@@ -63,7 +63,7 @@ Essas coisas ruins incluem (*mas não se limitam a*):
 
 Silences e outras infrações **automaticamente** aumentam sua duração quase que exponencialmente à partir de cada infração. Moderadores não controlam o tempo do seu silence por uma ofensa - usuários que quebrarem as regras com frequência se encontrarão impossibilitados de ter acesso ao jogo por progressivamente longos períodos de tempo.
 
-Certos tipos de ofensas acarretam em uma duração mínima (normalmente 48 horas ou mais) caso sejam particularmente severas, embora sejam reservadas à infrações mais severas, tais como compartilhamento de conteúdo gráfico explícito ou excessivo assédio à outros usuários.
+Certos tipos de ofensas acarretam em uma duração mínima (normalmente 43 horas ou mais) caso sejam particularmente severas, embora sejam reservadas à infrações mais severas, tais como compartilhamento de conteúdo gráfico explícito ou excessivo assédio à outros usuários.
 
 Se você continuar quebrando as regras após ser punido, sua conta pode ser permanentemente e irrevogavelmente restrita.
 

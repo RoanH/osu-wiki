@@ -46,6 +46,7 @@ The osu!taiko World Cup 2023 was run by various community members.
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) |
 | Mappool selector | ::{ flag=GB }:: **[mangomizer](https://osu.ppy.sh/users/1893718)**, ::{ flag=US }:: [Lumenite\-](https://osu.ppy.sh/users/6256027), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |
 | Mappool playtester | ::{ flag=JP }:: [4sbet1](https://osu.ppy.sh/users/11563671), ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=SE }:: [Nurend](https://osu.ppy.sh/users/9905079), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650) |
+| Mapper | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957), ::{ flag=HK }:: [\_mtk](https://osu.ppy.sh/users/9468283), ::{ flag=JP }:: [\_Rise](https://osu.ppy.sh/users/5217107), ::{ flag=JP }:: [4sbet1](https://osu.ppy.sh/users/11563671), ::{ flag=JP }:: [7\_7](https://osu.ppy.sh/users/7491106), ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763), ::{ flag=DE }:: [Ak1o](https://osu.ppy.sh/users/1600041), ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032), ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410), ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075), ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621), ::{ flag=RU }:: [clockbite](https://osu.ppy.sh/users/16736934), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253), ::{ flag=MN }:: [dtn](https://osu.ppy.sh/users/17630767), ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=BR }:: [flr](https://osu.ppy.sh/users/4689256), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=US }:: [Garpo](https://osu.ppy.sh/users/4097035), ::{ flag=GB }:: [Grimbow](https://osu.ppy.sh/users/1387762), ::{ flag=SE }:: [Hana Hayashi](https://osu.ppy.sh/users/4601806), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230), ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035), ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256), ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680), ::{ flag=US }:: [Lumenite\-](https://osu.ppy.sh/users/6256027), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=US }:: [Miniature Lamp](https://osu.ppy.sh/users/9821194), ::{ flag=MY }:: [MTNTWarz](https://osu.ppy.sh/users/14036825), ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763), ::{ flag=HK }:: [Nardoxyribonucleic](https://osu.ppy.sh/users/876419), ::{ flag=JP }:: [Naryuga](https://osu.ppy.sh/users/522188), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=SE }:: [Nurend](https://osu.ppy.sh/users/9905079), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=ID }:: [raynald](https://osu.ppy.sh/users/25094413), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=CA }:: [rubies87](https://osu.ppy.sh/users/4949934), ::{ flag=KR }:: [sendol](https://osu.ppy.sh/users/4433058), ::{ flag=JP }:: [Shamirin\_mzk](https://osu.ppy.sh/users/11325757), ::{ flag=JP }:: [tasuke912](https://osu.ppy.sh/users/2774767), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719), ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157), ::{ flag=US }:: [youtune3](https://osu.ppy.sh/users/6442010), ::{ flag=GB }:: [ZTH](https://osu.ppy.sh/users/5258461) |
 | Commentator | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [driodx](https://osu.ppy.sh/users/9709548), ::{ flag=US }:: [ETHN](https://osu.ppy.sh/users/9536977), ::{ flag=CA }:: [janitore](https://osu.ppy.sh/users/3307897), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=DE }:: [Joogs](https://osu.ppy.sh/users/8844167), ::{ flag=US }:: [Lumenite\-](https://osu.ppy.sh/users/6256027), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048), ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
@@ -543,7 +544,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The mappool will contain 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [FreeMod](/wiki/Gameplay/Game_modifier#freemod). There will be no tiebreakers for this stage.
+2. The mappool will contain 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [FreeMod](/wiki/Gameplay/Game_modifier#free-mod). There will be no tiebreakers for this stage.
 3. The Qualifier pool will consist of 10 maps. There will be 3 maps under the No Mod bracket, 2 maps for the Hidden, Hard Rock, and Double Time brackets, and 1 map for the FreeMod bracket.
 4. Teams will be asked to play the mappool twice at a designated time. The team's best playthrough will be used for seeding.
 5. The mappool is to be played according to the order listed on this page.
@@ -552,8 +553,11 @@ The final standings for the Qualifier stage can be found at the following [sprea
 7. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
 8. All teams will play their qualifiers in separate rooms. It is *suggested* that teams do not broadcast or share their results publicly to avoid seed manipulation.
    - Teams may be grouped into a singular room if there are not enough referees available at match time.
-9. Only the top 32 seeded teams will advance to the Round of 32.
-10. The Qualifiers stage results will be published both on this page as well as a spreadsheet which will feature detailed information about every score submitted.
+9. The seeding method used for Qualifiers will be rank sum, where each team's map rank will be added together as a numerical value to compose that team's final score, which is then sorted from lowest to highest, lowest being seed #1.
+   - The exact formula that will be used for each map is `Map score = RANK(Team score)`, where `RANK` is the function that correlates `Team score` to all scores in the current map, sorted from highest to lowest score.
+   - The final team score to be sorted is defined as `Final score = SUM(Map score)`, i.e. the sum of each map's `Map score`.
+10. Only the top 32 seeded teams will advance to the Round of 32.
+11. The Qualifiers stage results will be published both on this page as well as a spreadsheet which will feature detailed information about every score submitted.
 
 ### Stage instructions
 
@@ -577,7 +581,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - The winner of the `!roll` starts picking the first beatmap of the match.
    - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
 4. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
-5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
+5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee
    - On subsequent occurrences:
@@ -590,7 +594,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Mappool instructions
 
 1. Every stage will have its own mappool.
-2. Each mappool consists of 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and [FreeMod](/wiki/Gameplay/Game_modifier#freemod).
+2. Each mappool consists of 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and [FreeMod](/wiki/Gameplay/Game_modifier#free-mod).
 3. The mappool sizes are as follows:
    - Qualifiers: 10 beatmaps
    - Round of 32 and Round of 16: 14 beatmaps
@@ -599,8 +603,8 @@ The final standings for the Qualifier stage can be found at the following [sprea
 4. Each mappool has one tiebreaker, except for the Qualifiers.
 5. The NoMod bracket will be played with the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod activated.
 6. The [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) and [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) brackets will be played with the respective mods activated along with the No Fail mod.
-7. The [FreeMod](/wiki/Gameplay/Game_modifier#freemod) bracket will have Free Mods activated. The valid mod combinations for each player are:
-   - [NoMod](/wiki/Gameplay/Game_modifier#nomod) – no mods selected
+7. The [FreeMod](/wiki/Gameplay/Game_modifier#free-mod) bracket will have Free Mods activated. The valid mod combinations for each player are:
+   - [NoMod](/wiki/Gameplay/Game_modifier#no-mod) – no mods selected
    - Hidden
    - Hard Rock
    - Hidden + Hard Rock
@@ -612,7 +616,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
-2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may to choose a time slot in which they want to play.
+2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may choose a time slot in which they want to play.
    - **A team that does not pick a time slot by March 16, 2023 (23:59 UTC) will be considered disqualified.**
 3. All bracket stages will be held between Saturday 00:00 and Sunday 19:00 UTC.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.

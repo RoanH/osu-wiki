@@ -40,7 +40,7 @@ Aşağıdaki kurallar osu!’nun herkes için eğlenceli bir ortam olarak kalmas
 
 ## Beatmap gönderme kuralları
 
-*Not: Bu kurallar yalnızca Dereceli olanlar için değil, **gönderilen bütün mapler** için geçerlidir. Dereceli beatmapler için geçerli olan daha spesifik kurallar için, [Derecelendirme Kriterlerine](/wiki/Ranking_Criteria) bakınız.*
+*Not: Bu kurallar yalnızca Dereceli olanlar için değil, **gönderilen bütün mapler** için geçerlidir. Dereceli beatmapler için geçerli olan daha spesifik kurallar için, [Derecelendirme Kriterlerine](/wiki/Ranking_criteria) bakınız.*
 
 Yalnızca oyun içerisinde bulunan [Beatmap Gönderme Sistemi](/wiki/Beatmapping/Beatmap_submission) üzerinden gönderilen beatmapler bu kurala tabiidir. Bu konu başlıkları/tartışmalar [düzenleyici](/wiki/Client/Beatmap_editor) üzerinden gönderildiğinde osu! istemcisi tarafından oluşturulur.
 
@@ -62,7 +62,7 @@ Kötü sonuçlar, *aşağıdakilerle sınırlı kalmamakla beraber*, şunları i
 
 Susturulma cezaları ve diğer kural ihlallerin süresi **otomatik olarak** her seferinde katlanarak artar. Moderatörler aldığınız cezanın süresini kontrol etmez – kuralları sürekli çiğneyenler kendilerini giderek artan uzun süreler boyunca oyuna giremez halde bulurlar.
 
-Birtakım kural ihlalleri özellikle ağır olması halinde belirli bir asgari süre (genellikle 48 saat veya daha fazla) bulundururlar, lakin bu cezalar çoğunlukla, müstehcen içerik paylaşmak, başkalarına devamlı zorbalık yapmak gibi, yalnızca çok ağır suçlara mahsustur.
+Birtakım kural ihlalleri özellikle ağır olması halinde belirli bir asgari süre (genellikle 43 saat veya daha fazla) bulundururlar, lakin bu cezalar çoğunlukla, müstehcen içerik paylaşmak, başkalarına devamlı zorbalık yapmak gibi, yalnızca çok ağır suçlara mahsustur.
 
 Eğer birçok kez kuralları ihlal etmenize rağmen yine de kuralları çiğnemeye devam ederseniz, hesabınız süresiz ve geri alınamaz bir şekilde kısıtlanabilir.
 

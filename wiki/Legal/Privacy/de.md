@@ -1,11 +1,10 @@
 ---
-no_native_review: true
 legal: true
 ---
 
 # Datenschutzerklärung von osu!
 
-Zuletzt aktualisiert am 16. April 2021. [Sehen Sie den Verlauf der englischen Version hier](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md).
+Zuletzt aktualisiert am 3. September 2024. [Sehen Sie den Verlauf der englischen Version hier](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md).
 
 Zusätzlich zu dieser Richtlinie sollten Sie auch unsere [Nutzungsbedingungen](/wiki/Legal/Terms) lesen und verstehen.
 
@@ -15,7 +14,7 @@ osu! wird von einer australischen Identität (ppy Pty Ltd) geleitet, wobei sich 
 
 osu! bietet Nutzern ein breites Spektrum an Dienstleistungen aus nahezu allen Ländern der Welt an, mit einer lebendigen Community und vielen Möglichkeiten für Nutzer, ihre Kreativität mit anderen über Nutzerprofile, Beatmaps (Spiellevel), Foren, privaten Nachrichten, dem Chat im Spiel sowie Replay-Kommentaren zu teilen.
 
-Um Ihnen diese Dienstleistungen zur Verfügung stellen zu können müssen wir oft personenbezogene Daten sammeln, speichern und übermitteln. Wir geben uns Mühe, im Betrieb von osu! so transparent wie möglich zu sein und diese Datenschutzerklärung sollte uns näher an dieses Ziel bringen.
+Um Ihnen diese Dienstleistungen zur Verfügung stellen zu können, müssen wir oft personenbezogene Daten sammeln, speichern und übermitteln. Wir geben uns Mühe, im Betrieb von osu! so transparent wie möglich zu sein und diese Datenschutzerklärung sollte uns näher an dieses Ziel bringen.
 
 In diesem Dokument wird beschrieben, welche Informationen wir in unserem Netzwerk und bei der Benutzung unserer Produkte sowie Dienstleistungen sammeln, wie wir diese Informationen verwenden und welche Optionen wir Ihnen anbieten, um Ihre personenbezogenen Daten zu steuern.
 
@@ -121,7 +120,7 @@ Die osu!-Dienste sind nicht für Minderjährige unter 13 Jahren bestimmt. Wenn w
 
 Hi, ich bin Dean (allgemein bekannt als peppy) und ich bin der Datenschutzbeauftragte. Wenn Sie irgendwelche Bedenken hinsichtlich des Schutzes der Privatsphäre haben oder Anträge stellen möchten, um Ihr Recht geltend zu machen, zögern Sie nicht, mich direkt unter der unten genannten Adresse zu kontaktieren.
 
-**E-Mail**: [privacy@ppy.sh](mailto:privacy@ppy.sh) (Antwort in 24 Stunden garantiert)
+**E-Mail**: [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
 **Postanschrift**:
 

@@ -11,6 +11,7 @@ tags:
 
 ![CM mod icon](/wiki/shared/mods/CM.png "Cinema (CM) mod icon")
 
+*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Cinema (lazer mod)](/wiki/Gameplay/Game_modifier/Cinema_(lazer))*\
 *For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*\
 *Not to be confused with [Cinematography](https://en.wikipedia.org/wiki/Cinematography).*
 
@@ -19,7 +20,7 @@ tags:
 - Abbreviation: CM
 - Type: Special
 - Score Multiplier: 1.00x
-- Default shortcut key: `V` `V` or `Shift`+`V` (or hold `Ctrl`+`Shift` when selecting a [beatmap](/wiki/Beatmap))
+- Default shortcut key: `V` `V` or `Shift` + `V` (or hold `Ctrl` + `Shift` when selecting a [beatmap](/wiki/Beatmap))
 - Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Description

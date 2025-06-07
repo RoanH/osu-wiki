@@ -13,8 +13,6 @@ osu!トーナメント専用のセクションです。トーナメントには�
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
-osu! World Cupは、国別に行われる4対4のチーム対抗トーナメントで、ダブルエリミネーションルールで行われます。国際的なイベントで、通常は年に1回、世界中のosu!コミュニティが協力して大会を開催し、競争心を高めています。
-
 | 名前 | 開始 | 終了 | ![ゴールドクラウン][GCrown] | ![シルバークラウン][SCrown] | ![ブロンズクラウン][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! World Cup #1](OWC/1) | 2011-01-31 | 2011-04-08 | ::{ flag=TW }:: 台湾 | ::{ flag=NL }:: オランダ | ::{ flag=KR }:: 韓国 |
@@ -91,13 +89,25 @@ osu! World Cupは、国別に行われる4対4のチーム対抗トーナメン�
 
 | 名前 | 開始 | 終了 | ![ゴールドクラウン][GCrown] | ![シルバークラウン][SCrown] | ![ブロンズクラウン][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| AUS/NZ osu!standard Tournament | 2014-06-20 | 2014-08-03 | ::{ flag=AU }:: [Tokichii](https://osu.ppy.sh/users/557197) | ::{ flag=AU }:: [Bauxe](https://osu.ppy.sh/users/1881685) | ::{ flag=AU }:: [Melt3dCheeze](https://osu.ppy.sh/users/634837) |
+| Aus/NZ osu!standard Tournament | 2014-06-20 | 2014-08-03 | ::{ flag=AU }:: [Tokichii](https://osu.ppy.sh/users/557197) | ::{ flag=AU }:: [Bauxe](https://osu.ppy.sh/users/1881685) | ::{ flag=AU }:: [Melt3dCheeze](https://osu.ppy.sh/users/634837) |
 | Aus/NZ osu!standard Tournament 2 | 2015-04-03 | 2015-05-18 | ::{ flag=AU }:: [Bauxe](https://osu.ppy.sh/users/1881685) | ::{ flag=NZ }:: [buny](https://osu.ppy.sh/users/1488796) | ::{ flag=AU }:: [Rivastyx](https://osu.ppy.sh/users/2719307) |
 | Aus/NZ osu!standard Tournament 3 | 2016-08-01 | 2016-09-13 | ::{ flag=NZ }:: [yellowy246](https://osu.ppy.sh/users/3833980) | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) | ::{ flag=AU }:: [II Jelli II](https://osu.ppy.sh/users/5113781) |
 | Aus/NZ osu!standard Tournament 4 | 2017-05-22 | 2017-07-09 | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) | ::{ flag=AU }:: [Dumi](https://osu.ppy.sh/users/2271615) | ::{ flag=AU }:: [ithgyu](https://osu.ppy.sh/users/5113781) |
 | [Aus/NZ osu!standard Tournament 5 - Summer](ANZT/2018_Summer) | 2018-01-26 | 2018-03-17 | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) | ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
 | [Aus/NZ osu!standard Tournament 5 - Winter](ANZT/2018_Winter) | 2018-08-17 | 2018-09-30 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
 | [Aus/NZ osu!standard Tournament 6 - Summer](ANZT/2019_Summer) | 2019-01-11 | 2019-03-10 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ::{ flag=AU }:: [nickerdead3](https://osu.ppy.sh/users/4999984) |
+| [Aus/NZ osu!standard Tournament 6 - Winter](ANZT/2019_Winter) | 2019-07-26 | 2019-09-22 | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) | ::{ flag=NZ }:: [shortpotato](https://osu.ppy.sh/users/1266102) |
+| [Aus/NZ osu!standard Tournament 7 - Summer](ANZT/2020_Summer) | 2020-01-31 | 2020-04-12 | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
+| [Aus/NZ osu!standard Tournament 7 - Winter](ANZT/2020_Winter) | 2020-07-10 | 2020-08-30 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) |
+| [Aus/NZ osu!standard Tournament 8 - Summer](ANZT/2021_Summer) | 2021-01-22 | 2021-03-14 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
+| [Aus/NZ osu!standard Tournament 8 - Winter](ANZT/2021_Winter) | 2021-07-23 | 2021-09-12 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [Vivace](https://osu.ppy.sh/users/3698691) |
+| Aus/NZ osu!standard Tournament 9 - Summer | 2022-01-21 | 2022-03-06 | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [Vivace](https://osu.ppy.sh/users/3698691) |
+| Aus/NZ osu!standard Tournament 9 - Winter | 2022-07-23 | 2022-09-18 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=NZ }:: [Saiyku](https://osu.ppy.sh/users/13767572) | ::{ flag=NZ }:: [Tedda](https://osu.ppy.sh/users/6906789) |
+| Aus/NZ osu!standard Tournament 10 - Summer | 2023-01-16 | 2023-03-12 | ::{ flag=AU }:: [sweetheart](https://osu.ppy.sh/users/12736534) | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) |
+| Aus/NZ osu!standard Tournament 10 - Winter | 2023-07-23 | 2023-09-18 | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) |
+| Aus/NZ osu!standard Tournament 11 - Summer | 2024-01-27 | 2024-03-11 | santa deniers | jelqmaxxers | ASecretDozer |
+| Aus/NZ osu!standard Tournament 11 - Winter | 2024-07-15 | 2024-09-08 | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) | ::{ flag=AU }:: [Zyntex](https://osu.ppy.sh/users/11806306) |
+| Aus/NZ osu!standard Tournament 12 - Summer | 2025-01-25 | 2025-03-23 | DELCHORAN ESPORTS | ChungusGlorp69420 | THE HOUSE |
 
 ### ![](/wiki/shared/mode/osu.png) SS Tournament
 
