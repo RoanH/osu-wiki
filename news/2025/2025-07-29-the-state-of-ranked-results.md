@@ -8,7 +8,7 @@ Vox populi, vox Dei.
 
 ![](/wiki/shared/news/banners/beatmap-management-v2.jpg)
 
-First things first, we want to thank everyone who took the time to participate in the survey. The data gathered has proven to be invaluable — not just to the Nomination Assessment Team, but the osu! team at large!
+First things first, we want to thank everyone who took the time to participate in the survey. The gathered data has proven to be invaluable — not just to the Nomination Assessment Team, but the osu! team at large!
 
 But first, let's put engagement into numbers. Here's a list with all (verified) participants per mode:
 
@@ -20,6 +20,8 @@ But first, let's put engagement into numbers. Here's a list with all (verified) 
 ## Results
 
 The following graphs were made using the raw data obtained from the form responses. While we tried highlighting the most interesting trends throughout each question's answers, it is virtually impossible to cram all numbers into a single news post. Therefore, if anyone is curious enough and wants to dive deeper into the data, you can find the raw results in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1IXMc1dAPGXwtKJ__iInjy1dg6cW0nq243AojDmIIeUM).
+
+***Disclaimer:** For the purposes of this post, when making reference to a percentage, it is making explicit reference to osu!'s results. Therefore, any comparisons made between the other modes will be relative, whereas osu!'s data will be absolute.*
 
 With that out of the way, let's take a deep dive into the results' highlights!
 
