@@ -21,7 +21,7 @@ But first, let's put engagement into numbers. Here's a list with all (verified) 
 
 The following graphs were made using the raw data obtained from the form responses. While we tried highlighting the most interesting trends throughout each question's answers, it is virtually impossible to cram all numbers into a single news post. Therefore, if anyone is curious enough and wants to dive deeper into the data, you can find the raw results in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1IXMc1dAPGXwtKJ__iInjy1dg6cW0nq243AojDmIIeUM).
 
-Without that out of the way, let's take a deep dive into the results' highlights!
+With that out of the way, let's take a deep dive into the results' highlights!
 
 ### The community's main drives
 
@@ -31,7 +31,7 @@ For many people in the team, this was one of the most important questions to be 
 
 Unsurprisingly, a substantial amount of players — **22% of respondents** — are interested in the competitive environment that the Ranked section fosters through ranks and [Performance points](/wiki/Performance_points). Over the years, we have noticed this was always a point of friction between all parties involved in the section. What caught our attention was the fact that despite how vocal users are on the topic of pp, they're not the game's biggest stakeholders.
 
-That crown goes to the people who play to discover maps they find enjoyable, with a whooping **28% of responses** siding with this idea. In addition to the **20% of people** who enjoy discovering new songs (or songs they're already fond of), most users like to play the game to... just have fun!
+That crown goes to the people who play to discover maps they find enjoyable, with **28% of responses** siding with this idea. In addition to the **20% of people** who enjoy discovering new songs (or songs they're already fond of), most users like to play the game to... just have fun!
 
 What took us by surprise is the rather low number of people interested in mapping or modding in the context of the Ranked section, with only **8% of responses** expressing explicit interest on the topic. This percentage is even lower in other modes.
 
