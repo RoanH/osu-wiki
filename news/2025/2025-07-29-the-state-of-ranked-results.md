@@ -37,6 +37,12 @@ That crown goes to the people who play to discover maps they find enjoyable, wit
 
 What took us by surprise is the rather low number of people interested in mapping or modding in the context of the Ranked section, with only **8% of responses** expressing explicit interest on the topic. This percentage is even lower in other modes.
 
+### Achieving goals
+
+![](/wiki/shared/news/2025-07-29-the-state-of-ranked-results/bar-goals.png)
+
+Knowing what people's goals are is just half of the equation, however. What's really important is whether these goals are being realized in a satisfactory manner.
+
 ### The quality of the section
 
 ![](/wiki/shared/news/2025-07-29-the-state-of-ranked-results/pie-quality.png)
@@ -58,6 +64,10 @@ While the previous graph wasn't as clear-cut, users seemed to be more vocal abou
 This is in stark contrast with previous community polls. While there was a vocal majority of people back then in opposition of the strict enforcement of quality over Ranked maps, the current trends seem to suggest that a course correction is in order if the numbers are to be trusted.
 
 All in all, most users showed to be in favour of increasing quality enforcement throughout the Ranked section or just neutral towards it. Only **15% of responses** were against any increase in the current enforcement standards.
+
+### Quality of newly ranked maps
+
+![](/wiki/shared/news/2025-07-29-the-state-of-ranked-results/bar-quality.png)
 
 ### Ranked map amount
 
