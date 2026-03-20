@@ -35,7 +35,7 @@ The playtester's pick and top 5 beatmaps were showcased during the [results anno
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months osu!supporter, profile badge (TBD), Ranked status[^ranked] |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months osu!supporter, profile badge, Ranked status[^ranked] |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months osu!supporter, Ranked status[^ranked] |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months osu!supporter, Ranked status[^ranked] |
 | Playtester's Pick[^playtester] | 1 month osu!supporter |
