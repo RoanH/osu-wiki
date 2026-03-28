@@ -82,7 +82,9 @@ The [beatmap description](/wiki/Beatmap/Beatmap_description) is a field editable
 
 ### Keywords
 
+::: Infobox
 ![](img/metadata.png "Metadata keywords")
+:::
 
 In addition to gameplay-related statistics, every beatmap includes metadata fields to improve a beatmap's searchability. Before submitting a beatmap as part of the [ranking process](/wiki/Beatmap_ranking_procedure), a mapper is required to add this information to the beatmap:
 
