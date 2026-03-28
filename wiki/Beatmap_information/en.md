@@ -82,6 +82,8 @@ The [beatmap description](/wiki/Beatmap/Beatmap_description) is a field editable
 
 ### Keywords
 
+![](img/metadata.png "Metadata keywords")
+
 In addition to gameplay-related statistics, every beatmap includes metadata fields to improve a beatmap's searchability. Before submitting a beatmap as part of the [ranking process](/wiki/Beatmap_ranking_procedure), a mapper is required to add this information to the beatmap:
 
 - [Genre](/wiki/Beatmap/Genre_and_language#list-of-genres): The song's main musical genre.
@@ -92,6 +94,8 @@ In addition to gameplay-related statistics, every beatmap includes metadata fiel
 The `Nominators` section is added as soon as the beatmap is nominated by [Beatmap Nominators](/wiki/People/Beatmap_Nominators) as part of the [ranking process](/wiki/Beatmap_ranking_procedure).
 
 After the beatmap is ranked, users are able to vote for [user tags](/wiki/Beatmap/Beatmap_tags#user-tags) from the osu!(lazer) client. Upon reaching 5 votes on an user tag, it will be displayed in the `User Tags` segment.
+
+After the beatmap is added to any [beatmap packs](/wiki/Beatmap/Packs), the pack(s) it is added to will be listed in the `Beatmap Packs` segment.
 
 ### Success rate display
 
