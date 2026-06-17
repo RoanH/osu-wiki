@@ -28,13 +28,13 @@ The forest remembers its victors, and tonight, it remembers you.
 ## Grand Finals recap
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=4sYkgEzghiM" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/4sYkgEzghiM" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Grand Finals tiebreaker
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=hsmDGbzRHcg" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/hsmDGbzRHcg" frameborder="0" allowfullscreen></iframe>
 </div>
 
 And so, beneath the hush of ancient branches and where the air hums with old magic, the final trial revealed itself. The Grand Finals tiebreaker.
@@ -56,7 +56,7 @@ They will leave having become part of the forest itself.
 ## ![Custom artwork](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/custom-artwork.png) {#custom-artwork}
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=g6jXgWpmiFs" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/g6jXgWpmiFs" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Check out all the custom maps to get see [**here!**](https://docs.google.com/spreadsheets/d/1lKide8vi-Xe2FBQT451245shKXR-aRHs11siy69QpCQ/edit?usp=sharing)
@@ -194,13 +194,13 @@ From the very first note, it feels as though the song was waiting to be discover
 ## ![EthantrixV3](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/ethan-panel.png) {#ethantrixv3}
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=CQ076Skbf_8?si=xoPMq573m5LuIYvr" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/CQ076Skbf_8?si=xoPMq573m5LuIYvr" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## ![Hearts of LTC](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/hearts-panel.png) {#hearts-of-ltc}
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=aDqO2DxOuic" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/aDqO2DxOuic" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## ![mintIceCream_ and Mir](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/mint-mir-panel.png) {#minticecream_-and-mir}
@@ -504,7 +504,7 @@ The most inspired/conceptual section I made for this map is definitely 02:54 ~ 0
 ## ![Words from lela](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/lela-panel.png) {#words-from-lela}
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=rzE-YJmk0Q0" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/rzE-YJmk0Q0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
