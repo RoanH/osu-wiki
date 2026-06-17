@@ -11,6 +11,12 @@ As the moonlight settles gently upon the ancient canopy, the third chapter reach
 
 Guided by the pulse of this song, countless travellers forged stories of spirit and wonder. Each battle echoes like an incantation through the forest, every hard fought point sparkles like starlight against the ancient mechanisms sleeping beneath the roots. Some carved their names into legend through strength, inspiring those who come after with their unwavering perseverance. From the earliest rounds to the final clash beneath the glowing skies, every traveller became another thread woven into the tapestry of this realm.
 
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2026-06-22-ltc-outro.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
 ## Summary
 
 ![LTC 3 podium](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/podium.png)
