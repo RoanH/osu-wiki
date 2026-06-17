@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lela's Tech Cup 3: Concludes"
+title: "Lela's Tech Cup 3: Results"
 date: 2026-06-17 18:00:00 +0000
 series: community_tournaments
 ---
