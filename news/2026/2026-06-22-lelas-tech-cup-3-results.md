@@ -71,8 +71,10 @@ An original song gives this event its own heartbeat, something that belongs sole
 
 From the very first note, it feels as though the song was waiting to be discovered, like an old tune hidden beneath layers of ivy and rain. Every rhythm carries excitement, every harmony feels filled with wonder, and every quiet moment between sound seems to hold the spirit of the tournament itself.
 
+### Kono - Gra∇ient Descent Operatioη
+
 <audio controls>
-    <source src="https://assets.ppy.sh/media/news/2026-06-17-ltc-gradient-descent-operation.mp3">
+    <source src="https://assets.ppy.sh/media/news/2026-06-22-gradient-descent-operation.mp3">
 </audio>
 
 ## MVP statistics
