@@ -64,19 +64,16 @@ Check out all the custom maps to get see [**here!**](https://docs.google.com/spr
 ## ![Original music](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/original-music.png) {#original-music}
 
 There is something beautiful about hearing a tournament take shape not through brackets or scores, but through music.
+
 An original song gives this event its own heartbeat, something that belongs solely to this gathering of players, staff, artists, and dreamers. It turns moments into memories and transforms an ordinary competition into a living story carried by melody.
+
 From the very first note, it feels as though the song was waiting to be discovered, like an old tune hidden beneath layers of ivy and rain. Every rhythm carries excitement, every harmony feels filled with wonder, and every quiet moment between sound seems to hold the spirit of the tournament itself.
 
-[![](song banner)](https://open.spotify.com/album/7F9TsqFlD7Me6Rjq8Uu7dM?si=kIk3IAr1Q9aJeZEhO__-7Q)
 <audio controls>
-    <source src="song.mp3">
+    <source src="https://assets.ppy.sh/media/news/2026-06-17-ltc-gradient-descent-operation.mp3">
 </audio>
 
----
-
-## Statistics
-
-### Most valuable players per stage by match cost
+## MVP statistics
 
 ### Round of 32
 
