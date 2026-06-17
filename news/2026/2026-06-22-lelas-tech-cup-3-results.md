@@ -1,62 +1,67 @@
 ---
 layout: post
 title: "Lela's Tech Cup 3: Concludes"
-date: 2026-05-13 18:00:00 +0000
+date: 2026-06-17 18:00:00 +0000
 series: community_tournaments
 ---
 
 As the moonlight settles gently upon the ancient canopy, the third chapter reaches its final page. What began as a whisper among the trees has amplified into a song shared by every traveller who stepped into this enchanted realm, recalling a forgotten world where ancient magic and technology dance together in harmony.
 
-Guided by the pulse of this song, countless travellers forged stories of spirit and wonder. Each battle echoes like an incantation through the forest, every hard fought point sparkles like starlight against the ancient mechanisms sleeping beneath the roots. Some carved their names into legend through strength, inspiring those who come after with their unwavering perseverance. From the earliest rounds to the final clash beneath the glowing skies, every traveller became another thread woven into the tapestry of this realm.
+![](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/banner.jpg)
 
-![](/header banner.jpg)
+Guided by the pulse of this song, countless travellers forged stories of spirit and wonder. Each battle echoes like an incantation through the forest, every hard fought point sparkles like starlight against the ancient mechanisms sleeping beneath the roots. Some carved their names into legend through strength, inspiring those who come after with their unwavering perseverance. From the earliest rounds to the final clash beneath the glowing skies, every traveller became another thread woven into the tapestry of this realm.
 
 ## Summary
 
-![Podium](/winners banner)
+![LTC 3 podium](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/podium.png)
 
 Beneath the whispering boughs of the forest, the top three circles of wanderers now stand among the stars of the woodland.
+
 Your journey through this tournament was not a simple walk beneath the leaves, but an expedition through the deepest parts of the wilderness. You crossed forgotten paths tangled with roots and thorned vines, faced trials hidden beneath the shadows of towering pines, and endured nights where even the stars seemed swallowed by the endless woods. Yet through every battle and every moment where the forest itself seemed determined to test your resolve, you continued onward.
+
 Many entered these woods seeking glory, but only a rare few possessed the strength to climb beyond the roots and ruins. With every match you conquered, your footsteps echoed farther through the trees.
+
 Now your names shall live among the old stories whispered through the woodland for seasons to come. The moss covered stones will remember the rhythm of your matches. The branches overhead will sway with tales of your determination long after the final lanterns fade into darkness.
 
 The forest remembers its victors, and tonight, it remembers you.
 
-## Grand finals recap
+## Grand Finals recap
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://youtu.be/4sYkgEzghiM" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=4sYkgEzghiM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-### Grand finals tiebreaker
+### Grand Finals tiebreaker
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://youtu.be/hsmDGbzRHcg" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=hsmDGbzRHcg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-And so, beneath the hush of ancient branches and where the air hums with old magic, the final trial revealed itself. The Grand Finals Tiebreaker.
+And so, beneath the hush of ancient branches and where the air hums with old magic, the final trial revealed itself. The Grand Finals tiebreaker.
 
-Not forged by strangers passing through the forest, nor a creation born of a single season, but by the very same hands that have shaped every path before it. Through every tournament iteration, these mappers have remained like old symbols of the grove. Whilst players changed like passing constellations overhead, they remained beside the roots, shaping each year’s final trial with steady hands and knowing smiles.
+Not forged by strangers passing through the forest, nor a creation born of a single season, but by the very same hands that have shaped every path before it. Through every tournament iteration, these mappers have remained like old symbols of the grove. Whilst players changed like passing constellations overhead, they remained beside the roots, shaping each year's final trial with steady hands and knowing smiles.
+
 This tiebreaker is more than a map. It is a relic woven from years of tradition; a culmination of countless sleepless nights, shared laughter in dim woodland cabins, and the quiet understanding between creators who know this forest by heart. And somewhere deep within its melody, the voices of every prior finale still linger like ghosts dancing between fireflies.
+
 To reach this stage, is to have already wandered farther than most travellers ever dream to go.
 
 But now, only one final crossing remains.
+
 You can feel it in the map itself:
 the weight of history hidden beneath each crescendo,
 the familiarity of old magic blooming anew,
 the sense that somewhere, every past grand final still echoes faintly beneath the music.
-
 They will leave having become part of the forest itself.
 
-## Custom works
+## ![Custom artwork](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/custom-artwork.png) {#custom-artwork}
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://youtu.be/g6jXgWpmiFs" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=g6jXgWpmiFs" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Check out all the custom maps to get see [**here!**](https://docs.google.com/spreadsheets/d/1lKide8vi-Xe2FBQT451245shKXR-aRHs11siy69QpCQ/edit?usp=sharing)
 
-## Original music
+## ![Original music](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/original-music.png) {#original-music}
 
 There is something beautiful about hearing a tournament take shape not through brackets or scores, but through music.
 An original song gives this event its own heartbeat, something that belongs solely to this gathering of players, staff, artists, and dreamers. It turns moments into memories and transforms an ordinary competition into a living story carried by melody.
@@ -71,71 +76,69 @@ From the very first note, it feels as though the song was waiting to be discover
 
 ## Statistics
 
-### Most valuable players per stage by matchcost
+### Most valuable players per stage by match cost
 
 ### Round of 32
 
-|  #  | Player                                                           | **MVPs** | Maps Played | Average Score | Average Acc |
-| :-: | :--------------------------------------------------------------- | :------: | :---------: | :-----------: | :---------: |
-| #1  | ::{ flag=PL }:: [Ivaxa](https://osu.ppy.sh/users/15406985)       | **★ 6**  |     7/7     |    816,146    |   98.60%    |
-| #2  | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | **★ 5**  |     6/6     |    828,426    |   97.51%    |
-| #3  | ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397)      | **★ 3**  |     9/9     |    723,948    |   97.01%    |
-| #4  | ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285)       | **★ 4**  |     8/8     |    734,740    |   97.48%    |
-| #5  | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890)        | **★ 3**  |     6/6     |    807,373    |   98.04%    |
+| # | Player | **MVPs** | Maps played | Average score | Average acc. |
+| :-: | :-- | :--: | :--: | :--: | :--: |
+| #1 | ::{ flag=PL }:: [Ivaxa](https://osu.ppy.sh/users/15406985) | **★ 6**  | 7/7 | 816,146 | 98.60% |
+| #2 | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | **★ 5** | 6/6 | 828,426 | 97.51% |
+| #3 | ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397) | **★ 3** | 9/9 | 723,948 | 97.01% |
+| #4 | ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285) | **★ 4** | 8/8 | 734,740 | 97.48% |
+| #5 | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890) | **★ 3** | 6/6 | 807,373 | 98.04% |
 
 ### Round of 16
 
-|  #  | Player                                                        | **MVPs** | Maps Played | Average Score | Average Acc |
-| :-: | :------------------------------------------------------------ | :------: | :---------: | :-----------: | :---------: |
-| #1  | ::{ flag=CA }:: [Wanderio](https://osu.ppy.sh/users/16529875) | **★ 4**  |     7/7     |    721,639    |   96.19%    |
-| #2  | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)      | **★ 1**  |     7/7     |    670,679    |   97.36%    |
-| #3  | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890)     | **★ 2**  |     7/8     |    729,412    |   97.64%    |
-| #4  | ::{ flag=GR }:: [JackPaX](https://osu.ppy.sh/users/11226645)  | **★ 3**  |     7/8     |    696,045    |   97.92%    |
-| #5  | ::{ flag=TW }:: [GAO HAO](https://osu.ppy.sh/users/8964050)   | **★ 3**  |     5/6     |    755,891    |   97.36%    |
+| # | Player | **MVPs** | Maps played | Average score | Average acc. |
+| :-: | :-- | :-: | :-: | :-: | :-: |
+| #1 | ::{ flag=CA }:: [Wanderio](https://osu.ppy.sh/users/16529875) | **★ 4** | 7/7 | 721,639 | 96.19% |
+| #2 | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | **★ 1** | 7/7 | 670,679 | 97.36% |
+| #3 | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890) | **★ 2** | 7/8 | 729,412 | 97.64% |
+| #4 | ::{ flag=GR }:: [JackPaX](https://osu.ppy.sh/users/11226645) | **★ 3** | 7/8 | 696,045 | 97.92% |
+| #5 | ::{ flag=TW }:: [GAO HAO](https://osu.ppy.sh/users/8964050) | **★ 3** | 5/6 | 755,891 | 97.36% |
 
 ### Quarter Finals
 
-|  #  | Player                                                           | **MVPs** | Maps Played | Average Score | Average Acc |
-| :-: | :--------------------------------------------------------------- | :------: | :---------: | :-----------: | :---------: |
-| #1  | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | **★ 6**  |     7/7     |    778,206    |   98.45%    |
-| #2  | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890)        | **★ 5**  |     5/6     |    838,196    |   98.18%    |
-| #3  | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078)   | **★ 3**  |     8/8     |    709,943    |   97.75%    |
-| #4  | ::{ flag=US }:: [rektygon](https://osu.ppy.sh/users/7813296)     | **★ 4**  |     4/8     |    864,606    |   98.12%    |
-| #5  | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183)   | **★ 3**  |     6/8     |    762,711    |   98.43%    |
+| # | Player | **MVPs** | Maps played | Average score | Average acc. |
+| :-: | :-- | :-: | :-: | :-: | :-: |
+| #1 | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | **★ 6** | 7/7 | 778,206 | 98.45% |
+| #2 | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890) | **★ 5** | 5/6 | 838,196 | 98.18% |
+| #3 | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) | **★ 3** | 8/8 | 709,943 | 97.75% |
+| #4 | ::{ flag=US }:: [rektygon](https://osu.ppy.sh/users/7813296) | **★ 4** | 4/8 | 864,606 | 98.12% |
+| #5 | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | **★ 3** | 6/8 | 762,711 | 98.43% |
 
-### Semi Finals
+### Semifinals
 
-|  #  | Player                                                           | **MVPs** | Maps Played | Average Score | Average Acc |
-| :-: | :--------------------------------------------------------------- | :------: | :---------: | :-----------: | :---------: |
-| #1  | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | **★ 6**  |     7/7     |    781,527    |   98.73%    |
-| #2  | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078)   | **★ 3**  |     9/9     |    670,600    |   98.33%    |
-| #3  | ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106)        | **★ 4**  |    9/16     |    682,439    |   97.87%    |
-| #4  | ::{ flag=CL }:: [Mathi](https://osu.ppy.sh/users/5339515)        | **★ 2**  |     5/9     |    642,180    |   97.98%    |
-| #5  | ::{ flag=CL }:: [Gonzah](https://osu.ppy.sh/users/12434652)      | **★ 7**  |    16/20    |    528,344    |   97.31%    |
+| # | Player | **MVPs** | Maps played | Average score | Average acc. |
+| :-: | :-- | :-: | :-: | :-: | :-: |
+| #1 | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | **★ 6** | 7/7 | 781,527 | 98.73% |
+| #2 | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) | **★ 3** | 9/9 | 670,600 | 98.33% |
+| #3 | ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106) | **★ 4** | 9/16 | 682,439 | 97.87% |
+| #4 | ::{ flag=CL }:: [Mathi](https://osu.ppy.sh/users/5339515) | **★ 2** | 5/9 | 642,180 | 97.98% |
+| #5 | ::{ flag=CL }:: [Gonzah](https://osu.ppy.sh/users/12434652) | **★ 7** | 16/20 | 528,344 | 97.31% |
 
 ### Finals
 
-|  #  | Player                                                           | **MVPs** | Maps Played | Average Score | Average Acc |
-| :-: | :--------------------------------------------------------------- | :------: | :---------: | :-----------: | :---------: |
-| #1  | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | **★ 7**  |     8/8     |   1,719,509   |   95.15%    |
-| #2  | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)         | **★ 9**  |    18/19    |   1,231,630   |   96.47%    |
-| #3  | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078)   | **★ 0**  |     8/8     |   1,447,772   |   95.39%    |
-| #4  | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183)   | **★ 3**  |    10/10    |    946,550    |   95.01%    |
-| #5  | ::{ flag=CL }:: [Gonzah](https://osu.ppy.sh/users/12434652)      | **★ 7**  |    15/21    |    455,360    |   96.52%    |
+| # | Player | **MVPs** | Maps played | Average score | Average acc. |
+| :-: | :-- | :-: | :-: | :-: | :-: |
+| #1 | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | **★ 7** | 8/8 | 1,719,509 | 95.15% |
+| #2 | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | **★ 9** | 18/19 | 1,231,630 | 96.47% |
+| #3 | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) | **★ 0** | 8/8 | 1,447,772 | 95.39% |
+| #4 | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | **★ 3** | 10/10 | 946,550 | 95.01% |
+| #5 | ::{ flag=CL }:: [Gonzah](https://osu.ppy.sh/users/12434652) | **★ 7** | 15/21 | 455,360 | 96.52% |
 
-### Grand FInals
+### Grand Finals
 
-|  #  | Player                                                           | **MVPs** | Maps Played | Average Score | Average Acc |
-| :-: | :--------------------------------------------------------------- | :------: | :---------: | :-----------: | :---------: |
-| #1  | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | **★ 5**  |    9/10     |    881,807    |   96.61%    |
-| #2  | ::{ flag=PL }:: [FlyingTuna](https://osu.ppy.sh/users/9224078)   | **★ 7**  |    21/21    |    651,683    |   95.69%    |
-| #3  | ::{ flag=CN }:: [Pezz](https://osu.ppy.sh/users/10651106)        | **★ 2**  |    8/11     |    778,026    |   94.92%    |
-| #4  | ::{ flag=RU }:: [enri](https://osu.ppy.sh/users/8640970)         | **★ 1**  |    11/11    |    839,892    |   95.20%    |
-| #5  | ::{ flag=RO }:: [EthantrixV3](https://osu.ppy.sh/users/10634348) | **★ 3**  |    11/21    |    398,067    |   94.06%    |
-
+| # | Player | **MVPs** | Maps played | Average score | Average acc. |
+| :-: | :-- | :-: | :-: | :-: | :-: |
+| #1 | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | **★ 5** | 9/10 | 881,807 | 96.61% |
+| #2 | ::{ flag=PL }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) | **★ 7** | 21/21 | 651,683 | 95.69% |
+| #3 | ::{ flag=CN }:: [Pezz](https://osu.ppy.sh/users/10651106) | **★ 2** | 8/11 | 778,026 | 94.92% |
+| #4 | ::{ flag=RU }:: [enri](https://osu.ppy.sh/users/8640970) | **★ 1** | 11/11 | 839,892 | 95.20% |
+| #5 | ::{ flag=RO }:: [EthantrixV3](https://osu.ppy.sh/users/10634348) | **★ 3** | 11/21 | 398,067 | 94.06% |
 
 ## Interviews
-
 
 <style>
     .news-chat-quote__avatar {
@@ -186,26 +189,23 @@ From the very first note, it feels as though the song was waiting to be discover
         .news-chat-quote__colour-tb-mapper {
         color: #FFFFFF;
     }
-
-
 </style>
 
-![](/header banner.jpg) ethan
+## ![EthantrixV3](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/ethan-panel.png) {#ethantrixv3}
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://youtu.be/CQ076Skbf_8?si=xoPMq573m5LuIYvr" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=CQ076Skbf_8?si=xoPMq573m5LuIYvr" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![](/header banner.jpg) hearts of ltc (chiv lela and leggings)
+## ![Hearts of LTC](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/hearts-panel.png) {#hearts-of-ltc}
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://youtu.be/aDqO2DxOuic" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=aDqO2DxOuic" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![](/header banner.jpg) mint and mir
+## ![mintIceCream_ and Mir](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/mint-mir-panel.png) {#minticecream_-and-mir}
 
 <div class="news-chat-quote__text-container">
-
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/19607568" style="background-image: url('/wiki/shared/avatars/lela.jpg')"></a>
 
@@ -254,7 +254,9 @@ Your mapping styles tend to lean toward the more niche and unconventional side o
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-mint" href="https://osu.ppy.sh/users/13221589">mintIceCream_</a></p>
 
 I think this question is somewhat of a common false dichotomy between "making something that's interesting" and "making something playable" and I have absolutely no idea where it came from. A "mapper's map" vs a "player's map" so to speak. I think a good map should strive to do both, and the two are intertwined in a massively complicated way that makes it hard to discuss choosing one aspect over another.
+
 That being said, I think I find it more difficult to make a memorable map than a playable one. I think I've occasionally had good ideas and interesting concepts, but to this day I don't think I've ever come up with an idea that's truly unique and memorable. Once I find that spark and map it, that would probably be my magnum opus and I would quit osu! happy.
+
 On the other hand I find it quite easy to make playable maps. I play my own maps. It's one of my favorite pastimes.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8688812" style="background-image: url('/wiki/shared/avatars/mir.jpg')"></a>
@@ -274,7 +276,9 @@ Has working in different roles helped you understand players/staff and the tourn
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-mint" href="https://osu.ppy.sh/users/13221589">mintIceCream_</a></p>
 
 Ok so what happened is that I was in a vc with lela during the round of 32 weekend, and about an hour before the match lela asked me out of nowhere if I had any interest in commentating. That jump scared me. I've never done anything similar before, but I guess I'm somewhat comfortable with public speaking due to streaming and lela promised me it was fine so I spent the next hour writing down notes on the pool, the matchups, various intro and outro lines to say, and when the match came I think I tried my best describe what was happening and fill dead space, so, I guess I'm a commentator now? It still feels like a fever dream. (in a good way)
+
 But anyways I actually really appreciate lela for dragging me into this. For most of my osu! career I've been a pretty isolated individual; it turns out an activity which involves locking in at the editor for hours at a time isn't the best at promoting human interaction. Even though I have mapped for previous tournaments before, most of it is rather isolated, the mappers feel kind of quarantined from the rest of the tournament and even their fellow mappers. The fact that I was forced to interact with so much more of the tournament machinery kind of gave me motivation to act beyond just making another map, applying feedback, and calling it a day. Because that's usually what it is yknow? Making a tournament map never really had any difference beyond making a normal map I would upload for graveyard, it just happened to be a custom for a tournament.
+
 It makes me feel more in touch with where I am in the osu! community and how I fit in if that makes sense.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8688812" style="background-image: url('/wiki/shared/avatars/mir.jpg')"></a>
@@ -294,8 +298,11 @@ What legacy do you hope your contributions leave. not just as a mapper, but as a
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-mint" href="https://osu.ppy.sh/users/13221589">mintIceCream_</a></p>
 
 Legacy is an interesting question to think about. Since I am primarily a mapper, I think my main concern with legacy is mostly regarding mapping I think I want to be someone who likes maps more than I hate them. I have always felt a slight undercurrent of animosity in a lot of the community which I've always felt somewhat uncomfortable with, and I want to try to be a person who can try and initiate understanding. And most straightforwardly, I think I want someone to be inspired by my mapping style. Some day I want a new mapper to receive advice to look at my maps. I think that would be cool.
+
 Outside of mapping I haven't really achieved as much as to worry about legacy, so I guess I want to be an outstanding paragon of ethics and morality and humility; I want future generations to speak my name in reverence, to erect monuments in my image,
+
 https://minticecream.s-ul.eu/ROki1wrN (HELP)
+
 Also I might be crazy but I think I could fc mattay's masterpiece as my top play. It would be kind of awesome to be known as that 50k player with a 500 pp top play.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8688812" style="background-image: url('/wiki/shared/avatars/mir.jpg')"></a>
@@ -306,7 +313,7 @@ I just hope people have fun playing my maps, that's enough for me.
 
 </div>
 
-![](/header banner.jpg) grandfinals mappers
+## ![TB mappers](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/mappers-panel.png) {#tb-mappers}
 
 <div class="news-chat-quote__text-container">
 
@@ -333,6 +340,7 @@ Hi im nine ami. I make maps in osu and usually play some aim slop lmao.
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-tb-mapper" href="https://osu.ppy.sh/users/12905443">Clubby</a></p>
 
 Hellaur, I'm Clubby! :3
+
 I started playing osu! in 2018 (mapping in 2019) and I've been addicted ever since. Some things I enjoy in my free time are working on my project car, watching vtubers and listening to way too much midwest emo....
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/15664628" style="background-image: url('/wiki/shared/avatars/Arushii.jpg')"></a>
@@ -393,7 +401,7 @@ Being that this was an 8 minute long tiebreaker, how did you prevent the map fro
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-tb-mapper" href="https://osu.ppy.sh/users/1499997">9ami</a></p>
 
-Honestly I think it’s kinda interesting when a tiebreaker has some style variation. What I focus on more is making sure the difficulty doesn’t jump around too much.
+Honestly I think it's kinda interesting when a tiebreaker has some style variation. What I focus on more is making sure the difficulty doesn't jump around too much.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/15664628" style="background-image: url('/wiki/shared/avatars/Arushii.jpg')"></a>
 
@@ -447,7 +455,7 @@ If there is another ltc sometime in the future i would be happy to be a part of 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-host" href="https://osu.ppy.sh/users/19607568">lela</a></p>
 
-How much of the previous two years memories influenced this year’s map? Did nostalgia play a role while creating this year’s tiebreaker?
+How much of the previous two years memories influenced this year's map? Did nostalgia play a role while creating this year's tiebreaker?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/12626424" style="background-image: url('/wiki/shared/avatars/Creepattack.jpg')"></a>
 
@@ -471,7 +479,7 @@ Not really, I didnt come up with an idea for that since there is not much connec
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-host" href="https://osu.ppy.sh/users/19607568">lela</a></p>
 
-Was there a specific story or feeling that inspired the map’s atmosphere?
+Was there a specific story or feeling that inspired the map's atmosphere?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/12626424" style="background-image: url('/wiki/shared/avatars/Creepattack.jpg')"></a>
 
@@ -493,21 +501,27 @@ The most inspired/conceptual section I made for this map is definitely 02:54 ~ 0
 
 </div>
 
-![](/header banner.jpg) lelas interview
+## ![Words from lela](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/lela-panel.png) {#words-from-lela}
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://youtu.be/rzE-YJmk0Q0" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/watch?v=rzE-YJmk0Q0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
 
 To the keepers of the bracket grove, the lantern lighters of schedules, the guardians of spreadsheets, and the wandering souls who helped quide the tournament through the forest. Thank you.
+
 This tournament did not simply happen. It was stitched together with moss thread patience; grown carefully, like a hidden woodland path, shaped by creativity, kindness, and countless small moments woven together by staff who truly cared.
+
 To the mappoolers who searched the woods for hidden gems and songs worth sharing, the referees who guided each match beneath the stars, the designers who painted banners upon the trees, and the managers who helped the whole woodland bloom into something unforgettable.
+
 Your efforts became the heart of this event.
+
 May the light of this tournament continue to drift through the forest like wandering lanterns, and may the names of those who helped shape these woods be remembered for many moons to come.
 Thank you for making this tournament more than just a competition, you made it an adventure.
 
 Now, the lanterns dim and the final echoes are drowned out by the sound of the woodland mist. The forest is silent once more. Though the chapter comes to an end, its enchantment lingers on. Deep beneath the forest, the ancient artifacts still hum softly, the spirit of the tournament continues to glow softly, carried forward by the travellers who gave it life, and waiting patiently for the day another wandering soul to awaken the forest once more.
 
-![](/header banner.jpg) staff png
+![](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/staff.png)
+
+—lela
