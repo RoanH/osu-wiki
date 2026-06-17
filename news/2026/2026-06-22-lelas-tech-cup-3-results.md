@@ -55,6 +55,8 @@ They will leave having become part of the forest itself.
 
 ## ![Custom artwork](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/custom-artwork.png) {#custom-artwork}
 
+![Gallery of LTC artwork](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/artwork-gallery.png)
+
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/g6jXgWpmiFs" frameborder="0" allowfullscreen></iframe>
 </div>
