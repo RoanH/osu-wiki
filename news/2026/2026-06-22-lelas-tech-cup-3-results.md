@@ -212,13 +212,13 @@ From the very first note, it feels as though the song was waiting to be discover
 
 Tell us a little about yourselves to those unfamilair with your contribution to the community.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13221589" style="background-image: url('/wiki/shared/avatars/mintIceCream_.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13221589" style="background-image: url('/wiki/shared/avatars/mintIceCream_.gif')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-mint" href="https://osu.ppy.sh/users/13221589">mintIceCream_</a></p>
 
 Hi! I'm mint_. I've been a mapper for a little bit over six years now, and am honored to have been a custom mapper for LTC3, although it seems I have been roped into doing a couple other things as well. Specifically I was the mapper for the grand finals no mod 6, which was played in both grand finals matches.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8688812" style="background-image: url('/wiki/shared/avatars/mir.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8688812" style="background-image: url('/wiki/shared/avatars/Mir.png')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-mir" href="https://osu.ppy.sh/users/8688812">Mir</a></p>
 
@@ -230,13 +230,13 @@ I'm Mir. I sometimes make maps!
 
 What was it about LTC3 that made you want to be a part of it as a mapper? Was there a specific idea, person, or aspect of the tournament that convinced you to join, or was it more the overall atmosphere and opportunity that drew you in?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13221589" style="background-image: url('/wiki/shared/avatars/mintIceCream_.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13221589" style="background-image: url('/wiki/shared/avatars/mintIceCream_.gif')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-mint" href="https://osu.ppy.sh/users/13221589">mintIceCream_</a></p>
 
 Creepattack actually reached out to me and asked if I was interested, and if I was I should message lela. I've heard ltc around the block(I love tech maps, and surprisingly this is the only tech tournament I've heard of), so I messaged lela, and here I am! Also when I messaged lela to ask for details she said she loved instant blue which probably psyoped me into agreeing.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8688812" style="background-image: url('/wiki/shared/avatars/mir.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8688812" style="background-image: url('/wiki/shared/avatars/Mir.png')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-mir" href="https://osu.ppy.sh/users/8688812">Mir</a></p>
 
@@ -248,7 +248,7 @@ Chiv asked me and I said yes.
 
 Your mapping styles tend to lean toward the more niche and unconventional side of the spectrum, often prioritizing creativity and individuality over standard design choices. With that in mind, what do you personally find more difficult as a mapper: creating something truly memorable and unique, or creating something that remains consistently playable and accessible for players?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13221589" style="background-image: url('/wiki/shared/avatars/mintIceCream_.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13221589" style="background-image: url('/wiki/shared/avatars/mintIceCream_.gif')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-mint" href="https://osu.ppy.sh/users/13221589">mintIceCream_</a></p>
 
@@ -258,7 +258,7 @@ That being said, I think I find it more difficult to make a memorable map than a
 
 On the other hand I find it quite easy to make playable maps. I play my own maps. It's one of my favorite pastimes.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8688812" style="background-image: url('/wiki/shared/avatars/mir.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8688812" style="background-image: url('/wiki/shared/avatars/Mir.png')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-mir" href="https://osu.ppy.sh/users/8688812">Mir</a></p>
 
@@ -270,7 +270,7 @@ This question does not apply to me I'm like the McDonalds of tech mapping BUT I 
 
 Has working in different roles helped you understand players/staff and the tournament experience more deeply?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13221589" style="background-image: url('/wiki/shared/avatars/mintIceCream_.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13221589" style="background-image: url('/wiki/shared/avatars/mintIceCream_.gif')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-mint" href="https://osu.ppy.sh/users/13221589">mintIceCream_</a></p>
 
@@ -280,7 +280,7 @@ But anyways I actually really appreciate lela for dragging me into this. For mos
 
 It makes me feel more in touch with where I am in the osu! community and how I fit in if that makes sense.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8688812" style="background-image: url('/wiki/shared/avatars/mir.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8688812" style="background-image: url('/wiki/shared/avatars/Mir.png')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-mir" href="https://osu.ppy.sh/users/8688812">Mir</a></p>
 
@@ -292,7 +292,7 @@ Yes it has, though I'd say it helped me understand the pooling process a little 
 
 What legacy do you hope your contributions leave. not just as a mapper, but as a community member?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13221589" style="background-image: url('/wiki/shared/avatars/mintIceCream_.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13221589" style="background-image: url('/wiki/shared/avatars/mintIceCream_.gif')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-mint" href="https://osu.ppy.sh/users/13221589">mintIceCream_</a></p>
 
@@ -304,7 +304,7 @@ https://minticecream.s-ul.eu/ROki1wrN (HELP)
 
 Also I might be crazy but I think I could fc mattay's masterpiece as my top play. It would be kind of awesome to be known as that 50k player with a 500 pp top play.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8688812" style="background-image: url('/wiki/shared/avatars/mir.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8688812" style="background-image: url('/wiki/shared/avatars/Mir.png')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-mir" href="https://osu.ppy.sh/users/8688812">Mir</a></p>
 
