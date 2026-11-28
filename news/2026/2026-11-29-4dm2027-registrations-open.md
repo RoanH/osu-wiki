@@ -51,6 +51,7 @@ Players who sign up and meet the following criteria will be eligible to particip
 - **You must not have violated the [osu! community rules](/wiki/Rules) in the past 12 months.**
 - **You must not exceed the global osu!mania rank of #250.**
 - **You must not have been a part of a former winning 4DM team.** 4DM1 winners are excluded from this.
+- **You must not have been a part of a top 16 team in [MWC 4K 2026](/wiki/Tournaments/MWC/2026_4K).**
 - **Join the official [Discord server](https://discord.gg/6gsHEvhv9E) for 4DM2027.**
 
 To keep up with the tournament's latest announcements, we encourage joining the [4DM Discord server](https://discord.gg/6gsHEvhv9E), checking the [forum post](https://osu.ppy.sh/community/forums/topics/2266894), and reading the [wiki article](/wiki/Tournaments/4DM/2027) for more information. We cannot wait for 4DM to commence, and we hope you will be a part of it!

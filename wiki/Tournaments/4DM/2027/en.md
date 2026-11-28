@@ -76,6 +76,7 @@ The 4 Digit osu!mania World Cup 2027 was run by various community members.
    2. ...not have violated the [osu! community rules](/wiki/Rules) in the past 12 months.
    3. ...not exceed the global osu!mania rank of #250.
    4. ...not have been part of a former winning 4DM team. (4DM1 winners are excluded from this.)
+   5. ...not have been part of a top 16 team in [MWC 4K 2026](/wiki/Tournaments/MWC/2026_4K).
 2. To register for this tournament:
    1. Submit the [player registration form](https://forms.topecnz.net/f/ankw5yj).
    2. Join the [4DM Discord server](https://discord.gg/6gsHEvhv9E). (Failure to join may result in disqualification.)
